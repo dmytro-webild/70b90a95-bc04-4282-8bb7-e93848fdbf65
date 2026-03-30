@@ -60,45 +60,45 @@ export default function LandingPage() {
       description="Empowering your business to reach international customers with seamless shipping, secure payments, and global analytics."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=1",
           imageAlt: "Global commerce shipping 1",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=2",
           imageAlt: "Global commerce shipping 2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=3",
           imageAlt: "Global commerce shipping 3",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=4",
           imageAlt: "Global commerce shipping 4",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=5",
           imageAlt: "Global commerce shipping 5",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=6",
           imageAlt: "Analytics dashboard 1",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=7",
           imageAlt: "Analytics dashboard 2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=8",
           imageAlt: "Analytics dashboard 3",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=9",
           imageAlt: "Analytics dashboard 4",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/a-high-quality-image-of-global-logistics-1774900880598-0e16462c.png?_wi=10",
           imageAlt: "Analytics dashboard 5",
         },
       ]}
@@ -279,7 +279,7 @@ export default function LandingPage() {
           name: "Alice Chen",
           role: "CEO",
           testimonial: "Transformed our global operations.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/professional-business-person-headshot-1774900878481-288e727e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/professional-business-person-headshot-1774900878481-288e727e.png?_wi=1",
         },
         {
           id: "2",
@@ -307,7 +307,7 @@ export default function LandingPage() {
           name: "Eve White",
           role: "COO",
           testimonial: "Seamless integration, excellent support.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/professional-business-person-headshot-1774900878481-288e727e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BgBMLMpcSguNEnzm8HxXwGsyvi/professional-business-person-headshot-1774900878481-288e727e.png?_wi=2",
         },
       ]}
       title="Trusted by Global Leaders"
